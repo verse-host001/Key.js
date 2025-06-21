@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "GALAXYV4k",
+  "secretCode": "TITIDHYTAM",
 
   "description": "UniverseGalaxy", 
 
