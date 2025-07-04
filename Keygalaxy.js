@@ -1,6 +1,6 @@
 {
 
-  "secretCode": "TITIDHYTAM",
+  "secretCode": "VERSEXNEW",
 
   "description": "UniverseGalaxy", 
 
@@ -12,6 +12,6 @@
 
   "license": "MIT",
 
-  "version": "1.0"
+  "version": "6.0"
 
 }
